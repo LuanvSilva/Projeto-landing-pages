@@ -1,0 +1,28 @@
+.sobre-web-desing{
+    justify-content: space-between;
+  align-items: center;
+  }
+  .sobre-web-desing article{
+    width: 250px;
+  }
+  .sobre-web-desing article h1{
+    font-size: 70px;
+    line-height: 90%;
+    font-weight: 400;
+    color: #333366;
+  }
+  .sobre-web-desing article h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 200%;
+    color: #339960;
+  }
+  .sobre-web-desing article p{
+    color: #339960;
+    margin: 10px 0 40px;
+  
+  }
+  .sobre-web-desing figcaption img{
+    width: 700px;
+  }
